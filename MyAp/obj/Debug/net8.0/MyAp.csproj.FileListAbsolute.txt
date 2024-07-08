@@ -1,0 +1,168 @@
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/appsettings.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.exe
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.deps.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.runtimeconfig.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.pdb
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.csproj.AssemblyReference.cache
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.AssemblyInfoInputs.cache
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.AssemblyInfo.cs
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.MyAp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyAp.props
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyAp.props
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyAp.props
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/scopedcss/bundle/MyAp.styles.css
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.csproj.Up2Date
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/refint/MyAp.dll
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.pdb
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.genruntimeconfig.cache
+C:/Users/Gabriel M/Desktop/Projeto-React/MyAp/obj/Debug/net8.0/ref/MyAp.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/appsettings.Development.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/appsettings.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/MyAp
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.deps.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.runtimeconfig.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/MyAp.pdb
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.csproj.AssemblyReference.cache
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.AssemblyInfoInputs.cache
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.AssemblyInfo.cs
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.csproj.CoreCompileInputs.cache
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.MvcApplicationPartsAssemblyInfo.cs
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.MvcApplicationPartsAssemblyInfo.cache
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets.build.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets.development.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.MyAp.Microsoft.AspNetCore.StaticWebAssets.props
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyAp.props
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyAp.props
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyAp.props
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/staticwebassets.pack.json
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/scopedcss/bundle/MyAp.styles.css
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.csproj.CopyComplete
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/refint/MyAp.dll
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.pdb
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/MyAp.genruntimeconfig.cache
+/home/alunos/Área de Trabalho/Projeto-React/MyAp/obj/Debug/net8.0/ref/MyAp.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\appsettings.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.exe
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.deps.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.runtimeconfig.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.pdb
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.AssemblyReference.cache
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.AssemblyInfoInputs.cache
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.AssemblyInfo.cs
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.MyAp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyAp.props
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyAp.props
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyAp.props
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\scopedcss\bundle\MyAp.styles.css
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.Up2Date
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\refint\MyAp.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.pdb
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.genruntimeconfig.cache
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\obj\Debug\net8.0\ref\MyAp.dll
+C:\Users\Gabriel M\Desktop\Projeto-React\MyAp\bin\Debug\net8.0\Npgsql.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\appsettings.Development.json
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\appsettings.json
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.exe
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.deps.json
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.runtimeconfig.json
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.pdb
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\Npgsql.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DAW1-main\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.AssemblyReference.cache
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.AssemblyInfoInputs.cache
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.AssemblyInfo.cs
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.CoreCompileInputs.cache
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.MvcApplicationPartsAssemblyInfo.cs
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.MvcApplicationPartsAssemblyInfo.cache
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.build.json
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.development.json
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.MyAp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyAp.props
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyAp.props
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyAp.props
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\scopedcss\bundle\MyAp.styles.css
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.Up2Date
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.dll
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\refint\MyAp.dll
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.pdb
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.genruntimeconfig.cache
+D:\DAW1-main\Projeto-React\MyAp\obj\Debug\net8.0\ref\MyAp.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\appsettings.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.exe
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.deps.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.runtimeconfig.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\MyAp.pdb
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.AssemblyReference.cache
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.AssemblyInfoInputs.cache
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.AssemblyInfo.cs
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.MyAp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyAp.props
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyAp.props
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyAp.props
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\scopedcss\bundle\MyAp.styles.css
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.csproj.Up2Date
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\refint\MyAp.dll
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.pdb
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\MyAp.genruntimeconfig.cache
+C:\Users\Gabriel M\Desktop\projeto\Projeto-React\MyAp\obj\Debug\net8.0\ref\MyAp.dll
